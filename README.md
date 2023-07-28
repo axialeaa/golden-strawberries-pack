@@ -4,7 +4,7 @@
 Changes Enchanted Golden Apples to the Golden Strawberries from Celeste, complete with English, French and Spanish language translations! Available in both 16x and 32x resolution.
 
 ## Credits
-Faithful Pack: [Link to website](https://faithfulpack.net/)
+Faithful Pack: https://faithfulpack.net/
 * JadenXgamer, Alexsor and Evorp's contributions to the Golden Apple texture.
 Evorp's feedback and guidance with the current iteration of the Golden Strawberry texture.
 
